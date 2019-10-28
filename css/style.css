@@ -17,6 +17,7 @@ html {
   width: 100%;
   z-index: 10001;
   margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 #header .alt {
@@ -41,7 +42,7 @@ html {
 }
 
 .parallax {
-  height: 100%;
+  height: 80%;
   position: relative;
   opacity: 0.8;
   background-repeat: no-repeat;
@@ -69,4 +70,29 @@ html {
 
 .arredondamento {
   border-radius: 120px;
+}
+
+.margem1 {
+  margin-top: 30px;
+}
+
+.margem2 {
+  margin-bottom: 30px;
+}
+
+.contato1 {
+  color: #ffffff;
+  font-size: 8em;
+  font-weight: bold;
+}
+
+ul.contato2 {
+  cursor: default;
+  list-style: none;
+  padding: 0;
+  font: inherit;
+  vertical-align: baseline;
+  font-size: 1.8em;
+  color: black;
+  font-weight: bold;
 }

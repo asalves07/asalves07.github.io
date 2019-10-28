@@ -25,6 +25,7 @@ html {
   position: absolute;
 }
 
+
 .link {
   color: #ffffff;
   text-decoration: none;
@@ -57,6 +58,11 @@ html {
   padding: 18px;
   font-size: 25px;
   letter-spacing: 5px;
+}
+
+.conteudo h1 {
+  color: #4169E1;
+  font-weight: bold;
 }
 
 .arredondamento {

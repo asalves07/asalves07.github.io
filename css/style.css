@@ -16,6 +16,7 @@ html {
   top: 0;
   width: 100%;
   z-index: 10001;
+  margin-top: 30px;
 }
 
 #header .alt {
@@ -23,6 +24,7 @@ html {
   font-size: 1.25em;
   padding: 1em 2em;
   position: absolute;
+
 }
 
 

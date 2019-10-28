@@ -49,9 +49,9 @@ html {
 }
 
 .conteudo {
-  position: absolute;
+  /*position: absolute;
   left: 22%;
-  top: 25%;
+  top: 25%; */
   color: black;
   font-weight: bold;
   text-align: center;
